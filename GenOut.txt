@@ -1,0 +1,294 @@
+GENSIZE: 2 | Average Score: 600.15
+---- Current Best:GENSIZE: 2 | Average Score: 600.15
+
+GENSIZE: 3 | Average Score: 601.95
+---- Current Best:GENSIZE: 3 | Average Score: 601.95
+
+GENSIZE: 4 | Average Score: 610.8
+---- Current Best:GENSIZE: 4 | Average Score: 610.8
+
+GENSIZE: 5 | Average Score: 601
+---- Current Best:GENSIZE: 4 | Average Score: 610.8
+
+GENSIZE: 6 | Average Score: 609.75
+---- Current Best:GENSIZE: 4 | Average Score: 610.8
+
+GENSIZE: 7 | Average Score: 604.55
+---- Current Best:GENSIZE: 4 | Average Score: 610.8
+
+GENSIZE: 8 | Average Score: 613.3
+---- Current Best:GENSIZE: 8 | Average Score: 613.3
+
+GENSIZE: 9 | Average Score: 609.75
+---- Current Best:GENSIZE: 8 | Average Score: 613.3
+
+GENSIZE: 10 | Average Score: 626.8
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 11 | Average Score: 610.25
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 12 | Average Score: 614.1
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 13 | Average Score: 618
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 14 | Average Score: 594.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 15 | Average Score: 606.15
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 16 | Average Score: 604.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 17 | Average Score: 586.55
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 18 | Average Score: 595.55
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 19 | Average Score: 599.5
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 20 | Average Score: 598.2
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 21 | Average Score: 603.4
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 22 | Average Score: 595
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 23 | Average Score: 590.75
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 24 | Average Score: 597.85
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 25 | Average Score: 591.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 26 | Average Score: 586.6
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 27 | Average Score: 586.75
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 28 | Average Score: 585.3
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 29 | Average Score: 593.7
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 30 | Average Score: 603.15
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 31 | Average Score: 601.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 32 | Average Score: 601.55
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 33 | Average Score: 588.55
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 34 | Average Score: 587.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 35 | Average Score: 599.8
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 36 | Average Score: 582.7
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 37 | Average Score: 573.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 38 | Average Score: 594.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 39 | Average Score: 581.15
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 40 | Average Score: 595.45
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 41 | Average Score: 585.9
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 42 | Average Score: 575.9
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 43 | Average Score: 588.1
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 44 | Average Score: 579.15
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 45 | Average Score: 572.25
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 46 | Average Score: 595.05
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 47 | Average Score: 590.85
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 48 | Average Score: 586.2
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 49 | Average Score: 586.6
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 50 | Average Score: 575.45
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 51 | Average Score: 578.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 52 | Average Score: 587.25
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 53 | Average Score: 598.2
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 54 | Average Score: 581.65
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 55 | Average Score: 572.5
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 56 | Average Score: 600
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 57 | Average Score: 593.2
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 58 | Average Score: 596.15
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 59 | Average Score: 588.6
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 60 | Average Score: 575.2
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 61 | Average Score: 589.7
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 62 | Average Score: 582.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 63 | Average Score: 569.7
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 64 | Average Score: 584.5
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 65 | Average Score: 578.65
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 66 | Average Score: 586.85
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 67 | Average Score: 589.35
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 68 | Average Score: 579.7
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 69 | Average Score: 580.65
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 70 | Average Score: 583.1
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 71 | Average Score: 591.7
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 72 | Average Score: 569.3
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 73 | Average Score: 574
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 74 | Average Score: 558.35
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 75 | Average Score: 570.7
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 76 | Average Score: 571.45
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 77 | Average Score: 573.05
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 78 | Average Score: 587.15
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 79 | Average Score: 589.1
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 80 | Average Score: 565.7
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 81 | Average Score: 591.3
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 82 | Average Score: 580.4
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 83 | Average Score: 573.7
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 84 | Average Score: 570.6
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 85 | Average Score: 587.4
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 86 | Average Score: 583
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 87 | Average Score: 567.3
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 88 | Average Score: 580.05
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 89 | Average Score: 575.3
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 90 | Average Score: 567.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 91 | Average Score: 565.6
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 92 | Average Score: 593.65
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 93 | Average Score: 572.2
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 94 | Average Score: 567
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 95 | Average Score: 566.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 96 | Average Score: 559.75
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 97 | Average Score: 572.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 98 | Average Score: 569.1
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+
+GENSIZE: 99 | Average Score: 556.95
+---- Current Best:GENSIZE: 10 | Average Score: 626.8
+

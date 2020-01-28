@@ -1,0 +1,15 @@
+NUMCLIMBS: 1 | Average Score: 603.15
+---- Current Best:NUMCLIMBS: 1 | Average Score: 603.15
+
+NUMCLIMBS: 2 | Average Score: 587.8
+---- Current Best:NUMCLIMBS: 1 | Average Score: 603.15
+
+NUMCLIMBS: 3 | Average Score: 603.7
+---- Current Best:NUMCLIMBS: 3 | Average Score: 603.7
+
+NUMCLIMBS: 4 | Average Score: 599.95
+---- Current Best:NUMCLIMBS: 3 | Average Score: 603.7
+
+NUMCLIMBS: 5 | Average Score: 590.6
+---- Current Best:NUMCLIMBS: 3 | Average Score: 603.7
+

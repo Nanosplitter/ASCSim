@@ -1,0 +1,3840 @@
+GENSIZE: 5 | NUMCLIMBS: 1 | Average Score: 608.6
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 1 | Average Score: 608.6
+
+GENSIZE: 5 | NUMCLIMBS: 2 | Average Score: 614.7
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 2 | Average Score: 614.7
+
+GENSIZE: 5 | NUMCLIMBS: 3 | Average Score: 607.3
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 2 | Average Score: 614.7
+
+GENSIZE: 5 | NUMCLIMBS: 4 | Average Score: 593
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 2 | Average Score: 614.7
+
+GENSIZE: 5 | NUMCLIMBS: 5 | Average Score: 623.7
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 5 | Average Score: 623.7
+
+GENSIZE: 5 | NUMCLIMBS: 6 | Average Score: 611.4
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 5 | Average Score: 623.7
+
+GENSIZE: 5 | NUMCLIMBS: 7 | Average Score: 603.2
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 5 | Average Score: 623.7
+
+GENSIZE: 5 | NUMCLIMBS: 8 | Average Score: 600.8
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 5 | Average Score: 623.7
+
+GENSIZE: 5 | NUMCLIMBS: 9 | Average Score: 619
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 5 | Average Score: 623.7
+
+GENSIZE: 5 | NUMCLIMBS: 10 | Average Score: 612.3
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 5 | Average Score: 623.7
+
+GENSIZE: 5 | NUMCLIMBS: 11 | Average Score: 612.8
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 5 | Average Score: 623.7
+
+GENSIZE: 5 | NUMCLIMBS: 12 | Average Score: 625.7
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 12 | Average Score: 625.7
+
+GENSIZE: 5 | NUMCLIMBS: 13 | Average Score: 619.1
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 12 | Average Score: 625.7
+
+GENSIZE: 5 | NUMCLIMBS: 14 | Average Score: 602.3
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 12 | Average Score: 625.7
+
+GENSIZE: 6 | NUMCLIMBS: 1 | Average Score: 622.2
+---- Current Best:GENSIZE: 5 | NUMCLIMBS: 12 | Average Score: 625.7
+
+GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 3 | Average Score: 625
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 4 | Average Score: 604.1
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 5 | Average Score: 612.5
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 6 | Average Score: 606.5
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 7 | Average Score: 618.6
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 8 | Average Score: 608.6
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 9 | Average Score: 610.9
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 10 | Average Score: 608.8
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 11 | Average Score: 618.7
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 12 | Average Score: 610.5
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 13 | Average Score: 606
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 6 | NUMCLIMBS: 14 | Average Score: 610.1
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 7 | NUMCLIMBS: 1 | Average Score: 607.9
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 7 | NUMCLIMBS: 2 | Average Score: 602.3
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 7 | NUMCLIMBS: 3 | Average Score: 618.9
+---- Current Best:GENSIZE: 6 | NUMCLIMBS: 2 | Average Score: 627.8
+
+GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 7 | NUMCLIMBS: 5 | Average Score: 612.4
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 7 | NUMCLIMBS: 6 | Average Score: 600.9
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 7 | NUMCLIMBS: 7 | Average Score: 623.2
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 7 | NUMCLIMBS: 8 | Average Score: 621
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 7 | NUMCLIMBS: 9 | Average Score: 608.1
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 7 | NUMCLIMBS: 10 | Average Score: 616.1
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 7 | NUMCLIMBS: 11 | Average Score: 606.7
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 7 | NUMCLIMBS: 12 | Average Score: 618.2
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 7 | NUMCLIMBS: 13 | Average Score: 619
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 7 | NUMCLIMBS: 14 | Average Score: 621.6
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 1 | Average Score: 626.4
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 2 | Average Score: 618.8
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 3 | Average Score: 624.9
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 4 | Average Score: 626.6
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 5 | Average Score: 610
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 6 | Average Score: 600.9
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 7 | Average Score: 599.8
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 8 | Average Score: 617.8
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 9 | Average Score: 624.8
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 10 | Average Score: 621.8
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 11 | Average Score: 616.4
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 12 | Average Score: 595.5
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 13 | Average Score: 612.8
+---- Current Best:GENSIZE: 7 | NUMCLIMBS: 4 | Average Score: 628.3
+
+GENSIZE: 8 | NUMCLIMBS: 14 | Average Score: 630.1
+---- Current Best:GENSIZE: 8 | NUMCLIMBS: 14 | Average Score: 630.1
+
+GENSIZE: 9 | NUMCLIMBS: 1 | Average Score: 606.1
+---- Current Best:GENSIZE: 8 | NUMCLIMBS: 14 | Average Score: 630.1
+
+GENSIZE: 9 | NUMCLIMBS: 2 | Average Score: 605.6
+---- Current Best:GENSIZE: 8 | NUMCLIMBS: 14 | Average Score: 630.1
+
+GENSIZE: 9 | NUMCLIMBS: 3 | Average Score: 619.9
+---- Current Best:GENSIZE: 8 | NUMCLIMBS: 14 | Average Score: 630.1
+
+GENSIZE: 9 | NUMCLIMBS: 4 | Average Score: 615.6
+---- Current Best:GENSIZE: 8 | NUMCLIMBS: 14 | Average Score: 630.1
+
+GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 9 | NUMCLIMBS: 6 | Average Score: 615
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 9 | NUMCLIMBS: 7 | Average Score: 629.2
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 9 | NUMCLIMBS: 8 | Average Score: 607.1
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 9 | NUMCLIMBS: 9 | Average Score: 602
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 9 | NUMCLIMBS: 10 | Average Score: 615.2
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 9 | NUMCLIMBS: 11 | Average Score: 610.4
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 9 | NUMCLIMBS: 12 | Average Score: 613.4
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 9 | NUMCLIMBS: 13 | Average Score: 612.4
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 9 | NUMCLIMBS: 14 | Average Score: 612.8
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 10 | NUMCLIMBS: 1 | Average Score: 574.7
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 10 | NUMCLIMBS: 2 | Average Score: 612.8
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 10 | NUMCLIMBS: 3 | Average Score: 606.7
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 10 | NUMCLIMBS: 4 | Average Score: 607.5
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 10 | NUMCLIMBS: 5 | Average Score: 632.9
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 10 | NUMCLIMBS: 6 | Average Score: 605.9
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 10 | NUMCLIMBS: 7 | Average Score: 619
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 10 | NUMCLIMBS: 8 | Average Score: 632.8
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 10 | NUMCLIMBS: 9 | Average Score: 606.6
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 10 | NUMCLIMBS: 10 | Average Score: 604.9
+---- Current Best:GENSIZE: 9 | NUMCLIMBS: 5 | Average Score: 641.9
+
+GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 10 | NUMCLIMBS: 12 | Average Score: 619.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 10 | NUMCLIMBS: 13 | Average Score: 626.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 10 | NUMCLIMBS: 14 | Average Score: 589.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 1 | Average Score: 613.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 2 | Average Score: 618.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 3 | Average Score: 621.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 4 | Average Score: 630.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 5 | Average Score: 608.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 6 | Average Score: 614.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 7 | Average Score: 613.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 8 | Average Score: 633.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 9 | Average Score: 600.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 10 | Average Score: 608.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 11 | Average Score: 613.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 12 | Average Score: 602.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 13 | Average Score: 626
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 11 | NUMCLIMBS: 14 | Average Score: 603.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 1 | Average Score: 602.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 2 | Average Score: 618.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 3 | Average Score: 601.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 4 | Average Score: 619.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 5 | Average Score: 609.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 6 | Average Score: 620.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 7 | Average Score: 614.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 8 | Average Score: 618.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 9 | Average Score: 620.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 10 | Average Score: 599.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 11 | Average Score: 605.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 12 | Average Score: 628.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 13 | Average Score: 604.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 12 | NUMCLIMBS: 14 | Average Score: 616.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 1 | Average Score: 606.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 2 | Average Score: 632.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 3 | Average Score: 617.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 4 | Average Score: 619.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 5 | Average Score: 587.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 6 | Average Score: 621.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 7 | Average Score: 616.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 8 | Average Score: 603.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 9 | Average Score: 608.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 10 | Average Score: 609.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 11 | Average Score: 598.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 12 | Average Score: 608.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 13 | Average Score: 604.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 13 | NUMCLIMBS: 14 | Average Score: 590.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 1 | Average Score: 609.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 2 | Average Score: 616.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 3 | Average Score: 631.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 4 | Average Score: 606.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 5 | Average Score: 594.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 6 | Average Score: 587.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 7 | Average Score: 613.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 8 | Average Score: 591.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 9 | Average Score: 610.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 10 | Average Score: 595.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 11 | Average Score: 600.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 12 | Average Score: 633.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 13 | Average Score: 616.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 14 | NUMCLIMBS: 14 | Average Score: 605.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 1 | Average Score: 608
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 2 | Average Score: 617.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 3 | Average Score: 603.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 4 | Average Score: 612
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 5 | Average Score: 615.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 6 | Average Score: 604.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 7 | Average Score: 607.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 8 | Average Score: 613.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 9 | Average Score: 621.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 10 | Average Score: 611.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 11 | Average Score: 606.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 12 | Average Score: 604.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 13 | Average Score: 597.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 15 | NUMCLIMBS: 14 | Average Score: 617.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 1 | Average Score: 626.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 2 | Average Score: 623.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 3 | Average Score: 593.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 4 | Average Score: 613.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 5 | Average Score: 604.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 6 | Average Score: 618.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 7 | Average Score: 579.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 8 | Average Score: 603.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 9 | Average Score: 605.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 10 | Average Score: 575.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 11 | Average Score: 616.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 12 | Average Score: 608.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 13 | Average Score: 595.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 16 | NUMCLIMBS: 14 | Average Score: 624
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 1 | Average Score: 602.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 2 | Average Score: 589.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 3 | Average Score: 592.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 4 | Average Score: 606.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 5 | Average Score: 600
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 6 | Average Score: 567.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 7 | Average Score: 601.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 8 | Average Score: 603.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 9 | Average Score: 591.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 10 | Average Score: 596.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 11 | Average Score: 600.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 12 | Average Score: 602.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 13 | Average Score: 597
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 17 | NUMCLIMBS: 14 | Average Score: 583.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 1 | Average Score: 595.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 2 | Average Score: 585.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 3 | Average Score: 583.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 4 | Average Score: 608.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 5 | Average Score: 592.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 6 | Average Score: 593.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 7 | Average Score: 606.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 8 | Average Score: 580
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 9 | Average Score: 594.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 10 | Average Score: 599.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 11 | Average Score: 603.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 12 | Average Score: 591
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 13 | Average Score: 609.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 18 | NUMCLIMBS: 14 | Average Score: 610.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 1 | Average Score: 593.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 2 | Average Score: 601.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 3 | Average Score: 603.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 4 | Average Score: 600.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 5 | Average Score: 589.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 6 | Average Score: 591.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 7 | Average Score: 598.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 8 | Average Score: 590.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 9 | Average Score: 606.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 10 | Average Score: 586.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 11 | Average Score: 579.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 12 | Average Score: 590.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 13 | Average Score: 607.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 19 | NUMCLIMBS: 14 | Average Score: 587.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 1 | Average Score: 583.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 2 | Average Score: 592.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 3 | Average Score: 611.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 4 | Average Score: 593.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 5 | Average Score: 597.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 6 | Average Score: 575.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 7 | Average Score: 592.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 8 | Average Score: 586.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 9 | Average Score: 580.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 10 | Average Score: 605.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 11 | Average Score: 611
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 12 | Average Score: 589.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 13 | Average Score: 574.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 20 | NUMCLIMBS: 14 | Average Score: 605.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 1 | Average Score: 596.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 2 | Average Score: 582.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 3 | Average Score: 587.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 4 | Average Score: 591.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 5 | Average Score: 599.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 6 | Average Score: 604.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 7 | Average Score: 596.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 8 | Average Score: 614.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 9 | Average Score: 616.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 10 | Average Score: 602.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 11 | Average Score: 587.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 12 | Average Score: 568.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 13 | Average Score: 591
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 21 | NUMCLIMBS: 14 | Average Score: 586.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 1 | Average Score: 604.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 2 | Average Score: 618.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 3 | Average Score: 601.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 4 | Average Score: 581.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 5 | Average Score: 605.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 6 | Average Score: 591.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 7 | Average Score: 595.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 8 | Average Score: 621.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 9 | Average Score: 585
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 10 | Average Score: 605.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 11 | Average Score: 599.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 12 | Average Score: 593.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 13 | Average Score: 584.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 22 | NUMCLIMBS: 14 | Average Score: 591.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 1 | Average Score: 599.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 2 | Average Score: 609.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 3 | Average Score: 609.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 4 | Average Score: 619.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 5 | Average Score: 609.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 6 | Average Score: 605.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 7 | Average Score: 585.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 8 | Average Score: 557
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 9 | Average Score: 590.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 10 | Average Score: 593.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 11 | Average Score: 609.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 12 | Average Score: 613.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 13 | Average Score: 610.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 23 | NUMCLIMBS: 14 | Average Score: 589.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 1 | Average Score: 589.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 2 | Average Score: 587.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 3 | Average Score: 589.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 4 | Average Score: 591.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 5 | Average Score: 595
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 6 | Average Score: 617.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 7 | Average Score: 600.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 8 | Average Score: 586.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 9 | Average Score: 589
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 10 | Average Score: 591.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 11 | Average Score: 584.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 12 | Average Score: 579.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 13 | Average Score: 590.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 24 | NUMCLIMBS: 14 | Average Score: 615.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 1 | Average Score: 593.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 2 | Average Score: 588.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 3 | Average Score: 606.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 4 | Average Score: 593.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 5 | Average Score: 597.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 6 | Average Score: 607.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 7 | Average Score: 603.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 8 | Average Score: 588.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 9 | Average Score: 599.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 10 | Average Score: 571.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 11 | Average Score: 581.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 12 | Average Score: 597.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 13 | Average Score: 593.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 25 | NUMCLIMBS: 14 | Average Score: 622.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 1 | Average Score: 571.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 2 | Average Score: 593.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 3 | Average Score: 579.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 4 | Average Score: 586.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 5 | Average Score: 594.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 6 | Average Score: 583.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 7 | Average Score: 579.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 8 | Average Score: 569.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 9 | Average Score: 599.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 10 | Average Score: 601.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 11 | Average Score: 598.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 12 | Average Score: 602.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 13 | Average Score: 601.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 26 | NUMCLIMBS: 14 | Average Score: 583.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 1 | Average Score: 589.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 2 | Average Score: 576.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 3 | Average Score: 586.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 4 | Average Score: 587.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 5 | Average Score: 598.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 6 | Average Score: 574.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 7 | Average Score: 595.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 8 | Average Score: 594
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 9 | Average Score: 596.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 10 | Average Score: 586.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 11 | Average Score: 603.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 12 | Average Score: 588.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 13 | Average Score: 594.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 27 | NUMCLIMBS: 14 | Average Score: 593.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 1 | Average Score: 587.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 2 | Average Score: 607.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 3 | Average Score: 597.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 4 | Average Score: 590.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 5 | Average Score: 590.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 6 | Average Score: 601.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 7 | Average Score: 587.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 8 | Average Score: 592.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 9 | Average Score: 609.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 10 | Average Score: 593.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 11 | Average Score: 567.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 12 | Average Score: 580.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 13 | Average Score: 614.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 28 | NUMCLIMBS: 14 | Average Score: 588.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 1 | Average Score: 585.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 2 | Average Score: 606.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 3 | Average Score: 593
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 4 | Average Score: 584.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 5 | Average Score: 583.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 6 | Average Score: 578.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 7 | Average Score: 589.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 8 | Average Score: 589.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 9 | Average Score: 596.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 10 | Average Score: 582.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 11 | Average Score: 609.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 12 | Average Score: 565.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 13 | Average Score: 590.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 29 | NUMCLIMBS: 14 | Average Score: 610
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 1 | Average Score: 596.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 2 | Average Score: 579
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 3 | Average Score: 574.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 4 | Average Score: 591.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 5 | Average Score: 589
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 6 | Average Score: 606.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 7 | Average Score: 593.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 8 | Average Score: 616.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 9 | Average Score: 586.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 10 | Average Score: 593.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 11 | Average Score: 589.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 12 | Average Score: 616
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 13 | Average Score: 601.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 30 | NUMCLIMBS: 14 | Average Score: 597.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 1 | Average Score: 588.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 2 | Average Score: 591.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 3 | Average Score: 596.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 4 | Average Score: 595.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 5 | Average Score: 587.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 6 | Average Score: 603.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 7 | Average Score: 613.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 8 | Average Score: 613.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 9 | Average Score: 590.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 10 | Average Score: 583.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 11 | Average Score: 598.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 12 | Average Score: 561.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 13 | Average Score: 583.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 31 | NUMCLIMBS: 14 | Average Score: 588
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 1 | Average Score: 606.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 2 | Average Score: 604.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 3 | Average Score: 599
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 4 | Average Score: 591.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 5 | Average Score: 591
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 6 | Average Score: 614.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 7 | Average Score: 586.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 8 | Average Score: 592.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 9 | Average Score: 589.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 10 | Average Score: 578.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 11 | Average Score: 604.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 12 | Average Score: 579.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 13 | Average Score: 586
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 32 | NUMCLIMBS: 14 | Average Score: 574.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 1 | Average Score: 577.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 2 | Average Score: 597.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 3 | Average Score: 592.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 4 | Average Score: 580.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 5 | Average Score: 597.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 6 | Average Score: 574.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 7 | Average Score: 586.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 8 | Average Score: 590.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 9 | Average Score: 582.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 10 | Average Score: 587.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 11 | Average Score: 579.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 12 | Average Score: 592.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 13 | Average Score: 588.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 33 | NUMCLIMBS: 14 | Average Score: 607.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 1 | Average Score: 579.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 2 | Average Score: 589.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 3 | Average Score: 584.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 4 | Average Score: 578.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 5 | Average Score: 579.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 6 | Average Score: 594
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 7 | Average Score: 585.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 8 | Average Score: 596
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 9 | Average Score: 596.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 10 | Average Score: 592.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 11 | Average Score: 596.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 12 | Average Score: 607.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 13 | Average Score: 587
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 34 | NUMCLIMBS: 14 | Average Score: 594.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 1 | Average Score: 599.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 2 | Average Score: 580
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 3 | Average Score: 587.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 4 | Average Score: 580.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 5 | Average Score: 577
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 6 | Average Score: 604.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 7 | Average Score: 577.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 8 | Average Score: 598.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 9 | Average Score: 592.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 10 | Average Score: 594.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 11 | Average Score: 599.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 12 | Average Score: 581.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 13 | Average Score: 575.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 35 | NUMCLIMBS: 14 | Average Score: 600.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 1 | Average Score: 604.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 2 | Average Score: 582.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 3 | Average Score: 595.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 4 | Average Score: 586.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 5 | Average Score: 611.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 6 | Average Score: 590.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 7 | Average Score: 596.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 8 | Average Score: 582.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 9 | Average Score: 591.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 10 | Average Score: 577.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 11 | Average Score: 582.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 12 | Average Score: 578.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 13 | Average Score: 608.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 36 | NUMCLIMBS: 14 | Average Score: 581.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 1 | Average Score: 574.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 2 | Average Score: 586.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 3 | Average Score: 577.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 4 | Average Score: 578.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 5 | Average Score: 601.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 6 | Average Score: 602.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 7 | Average Score: 582
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 8 | Average Score: 604.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 9 | Average Score: 581.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 10 | Average Score: 613.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 11 | Average Score: 570.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 12 | Average Score: 582.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 13 | Average Score: 581
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 37 | NUMCLIMBS: 14 | Average Score: 580.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 1 | Average Score: 591.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 2 | Average Score: 593.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 3 | Average Score: 597.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 4 | Average Score: 582.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 5 | Average Score: 612.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 6 | Average Score: 604.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 7 | Average Score: 579.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 8 | Average Score: 574.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 9 | Average Score: 591.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 10 | Average Score: 608.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 11 | Average Score: 571.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 12 | Average Score: 580.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 13 | Average Score: 578.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 38 | NUMCLIMBS: 14 | Average Score: 601.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 1 | Average Score: 593.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 2 | Average Score: 591.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 3 | Average Score: 597.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 4 | Average Score: 566.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 5 | Average Score: 596.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 6 | Average Score: 582.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 7 | Average Score: 581.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 8 | Average Score: 579.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 9 | Average Score: 593.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 10 | Average Score: 595.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 11 | Average Score: 569.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 12 | Average Score: 585.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 13 | Average Score: 567.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 39 | NUMCLIMBS: 14 | Average Score: 591.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 1 | Average Score: 560.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 2 | Average Score: 582.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 3 | Average Score: 585.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 4 | Average Score: 575.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 5 | Average Score: 582.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 6 | Average Score: 600.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 7 | Average Score: 601.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 8 | Average Score: 585.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 9 | Average Score: 587.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 10 | Average Score: 578.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 11 | Average Score: 596.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 12 | Average Score: 590.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 13 | Average Score: 598.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 40 | NUMCLIMBS: 14 | Average Score: 573.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 1 | Average Score: 604.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 2 | Average Score: 590.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 3 | Average Score: 578.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 4 | Average Score: 548.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 5 | Average Score: 577
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 6 | Average Score: 592.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 7 | Average Score: 599.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 8 | Average Score: 596.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 9 | Average Score: 593.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 10 | Average Score: 597.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 11 | Average Score: 588
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 12 | Average Score: 601.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 13 | Average Score: 607
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 41 | NUMCLIMBS: 14 | Average Score: 597.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 1 | Average Score: 598.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 2 | Average Score: 597.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 3 | Average Score: 579.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 4 | Average Score: 592.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 5 | Average Score: 606.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 6 | Average Score: 591.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 7 | Average Score: 607.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 8 | Average Score: 569.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 9 | Average Score: 575
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 10 | Average Score: 572.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 11 | Average Score: 552.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 12 | Average Score: 582.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 13 | Average Score: 591.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 42 | NUMCLIMBS: 14 | Average Score: 599.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 1 | Average Score: 601.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 2 | Average Score: 594.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 3 | Average Score: 589.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 4 | Average Score: 583.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 5 | Average Score: 556.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 6 | Average Score: 584.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 7 | Average Score: 576.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 8 | Average Score: 610.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 9 | Average Score: 607.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 10 | Average Score: 581.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 11 | Average Score: 607.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 12 | Average Score: 573.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 13 | Average Score: 577.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 43 | NUMCLIMBS: 14 | Average Score: 576.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 1 | Average Score: 577.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 2 | Average Score: 586.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 3 | Average Score: 577.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 4 | Average Score: 580.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 5 | Average Score: 585.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 6 | Average Score: 570.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 7 | Average Score: 578.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 8 | Average Score: 591.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 9 | Average Score: 601.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 10 | Average Score: 579
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 11 | Average Score: 590.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 12 | Average Score: 580
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 13 | Average Score: 596.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 44 | NUMCLIMBS: 14 | Average Score: 600.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 1 | Average Score: 589.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 2 | Average Score: 566.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 3 | Average Score: 588.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 4 | Average Score: 575.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 5 | Average Score: 575.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 6 | Average Score: 571.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 7 | Average Score: 585.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 8 | Average Score: 586.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 9 | Average Score: 599.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 10 | Average Score: 564.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 11 | Average Score: 598.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 12 | Average Score: 589.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 13 | Average Score: 585.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 45 | NUMCLIMBS: 14 | Average Score: 587.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 1 | Average Score: 592.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 2 | Average Score: 570.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 3 | Average Score: 604.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 4 | Average Score: 583.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 5 | Average Score: 594.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 6 | Average Score: 594.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 7 | Average Score: 592.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 8 | Average Score: 591.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 9 | Average Score: 594.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 10 | Average Score: 597.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 11 | Average Score: 595.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 12 | Average Score: 592.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 13 | Average Score: 577.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 46 | NUMCLIMBS: 14 | Average Score: 597.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 1 | Average Score: 604.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 2 | Average Score: 582.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 3 | Average Score: 592.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 4 | Average Score: 588.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 5 | Average Score: 570.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 6 | Average Score: 578.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 7 | Average Score: 581.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 8 | Average Score: 575.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 9 | Average Score: 566.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 10 | Average Score: 598.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 11 | Average Score: 574.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 12 | Average Score: 574.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 13 | Average Score: 581.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 47 | NUMCLIMBS: 14 | Average Score: 585.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 1 | Average Score: 581
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 2 | Average Score: 586.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 3 | Average Score: 578.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 4 | Average Score: 578.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 5 | Average Score: 597.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 6 | Average Score: 596.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 7 | Average Score: 592.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 8 | Average Score: 581
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 9 | Average Score: 574.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 10 | Average Score: 570.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 11 | Average Score: 556.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 12 | Average Score: 608.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 13 | Average Score: 604.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 48 | NUMCLIMBS: 14 | Average Score: 587.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 1 | Average Score: 591.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 2 | Average Score: 604.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 3 | Average Score: 576.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 4 | Average Score: 576.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 5 | Average Score: 585.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 6 | Average Score: 595.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 7 | Average Score: 604.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 8 | Average Score: 590.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 9 | Average Score: 575
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 10 | Average Score: 592.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 11 | Average Score: 587.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 12 | Average Score: 591.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 13 | Average Score: 585.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 49 | NUMCLIMBS: 14 | Average Score: 578.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 1 | Average Score: 583.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 2 | Average Score: 582.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 3 | Average Score: 599.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 4 | Average Score: 605.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 5 | Average Score: 580.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 6 | Average Score: 581.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 7 | Average Score: 590.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 8 | Average Score: 587.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 9 | Average Score: 576
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 10 | Average Score: 599.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 11 | Average Score: 596.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 12 | Average Score: 578.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 13 | Average Score: 601.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 50 | NUMCLIMBS: 14 | Average Score: 608.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 1 | Average Score: 564.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 2 | Average Score: 588
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 3 | Average Score: 603.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 4 | Average Score: 556.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 5 | Average Score: 572.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 6 | Average Score: 585
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 7 | Average Score: 598.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 8 | Average Score: 575.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 9 | Average Score: 587
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 10 | Average Score: 597.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 11 | Average Score: 601
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 12 | Average Score: 587.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 13 | Average Score: 603.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 51 | NUMCLIMBS: 14 | Average Score: 598
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 1 | Average Score: 606.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 2 | Average Score: 604.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 3 | Average Score: 590.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 4 | Average Score: 588.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 5 | Average Score: 595.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 6 | Average Score: 590
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 7 | Average Score: 587.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 8 | Average Score: 610.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 9 | Average Score: 600.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 10 | Average Score: 577.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 11 | Average Score: 588.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 12 | Average Score: 581.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 13 | Average Score: 590.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 52 | NUMCLIMBS: 14 | Average Score: 582
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 1 | Average Score: 588.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 2 | Average Score: 588.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 3 | Average Score: 595.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 4 | Average Score: 580.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 5 | Average Score: 593
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 6 | Average Score: 591
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 7 | Average Score: 601
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 8 | Average Score: 567.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 9 | Average Score: 586.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 10 | Average Score: 581.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 11 | Average Score: 600.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 12 | Average Score: 576.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 13 | Average Score: 576
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 53 | NUMCLIMBS: 14 | Average Score: 615.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 1 | Average Score: 611.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 2 | Average Score: 601
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 3 | Average Score: 603.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 4 | Average Score: 576
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 5 | Average Score: 593.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 6 | Average Score: 567.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 7 | Average Score: 574.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 8 | Average Score: 595.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 9 | Average Score: 593.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 10 | Average Score: 581.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 11 | Average Score: 565.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 12 | Average Score: 600.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 13 | Average Score: 591.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 54 | NUMCLIMBS: 14 | Average Score: 594
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 1 | Average Score: 608.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 2 | Average Score: 599.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 3 | Average Score: 589.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 4 | Average Score: 588.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 5 | Average Score: 589
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 6 | Average Score: 589.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 7 | Average Score: 593.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 8 | Average Score: 551.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 9 | Average Score: 572.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 10 | Average Score: 586.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 11 | Average Score: 572.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 12 | Average Score: 600.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 13 | Average Score: 580.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 55 | NUMCLIMBS: 14 | Average Score: 571.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 1 | Average Score: 570.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 2 | Average Score: 586.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 3 | Average Score: 587.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 4 | Average Score: 580.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 5 | Average Score: 579.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 6 | Average Score: 565.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 7 | Average Score: 595.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 8 | Average Score: 557.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 9 | Average Score: 587.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 10 | Average Score: 597
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 11 | Average Score: 580.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 12 | Average Score: 576
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 13 | Average Score: 591.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 56 | NUMCLIMBS: 14 | Average Score: 587.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 1 | Average Score: 592.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 2 | Average Score: 565.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 3 | Average Score: 597.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 4 | Average Score: 575.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 5 | Average Score: 600.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 6 | Average Score: 582.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 7 | Average Score: 586.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 8 | Average Score: 586
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 9 | Average Score: 583.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 10 | Average Score: 601.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 11 | Average Score: 602.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 12 | Average Score: 595.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 13 | Average Score: 575.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 57 | NUMCLIMBS: 14 | Average Score: 612.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 1 | Average Score: 595
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 2 | Average Score: 590.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 3 | Average Score: 586.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 4 | Average Score: 600.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 5 | Average Score: 589.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 6 | Average Score: 562.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 7 | Average Score: 570.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 8 | Average Score: 581.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 9 | Average Score: 590.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 10 | Average Score: 580.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 11 | Average Score: 578.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 12 | Average Score: 575.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 13 | Average Score: 596.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 58 | NUMCLIMBS: 14 | Average Score: 594.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 1 | Average Score: 589.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 2 | Average Score: 566
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 3 | Average Score: 595.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 4 | Average Score: 576.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 5 | Average Score: 586.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 6 | Average Score: 575.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 7 | Average Score: 575.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 8 | Average Score: 575.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 9 | Average Score: 597.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 10 | Average Score: 553.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 11 | Average Score: 569.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 12 | Average Score: 575.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 13 | Average Score: 575.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 59 | NUMCLIMBS: 14 | Average Score: 566.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 1 | Average Score: 593.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 2 | Average Score: 571.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 3 | Average Score: 596.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 4 | Average Score: 568.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 5 | Average Score: 590.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 6 | Average Score: 597.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 7 | Average Score: 568.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 8 | Average Score: 571.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 9 | Average Score: 567.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 10 | Average Score: 578.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 11 | Average Score: 575.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 12 | Average Score: 572.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 13 | Average Score: 593.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 60 | NUMCLIMBS: 14 | Average Score: 581.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 1 | Average Score: 571.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 2 | Average Score: 583.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 3 | Average Score: 574.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 4 | Average Score: 583.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 5 | Average Score: 577
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 6 | Average Score: 587.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 7 | Average Score: 602.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 8 | Average Score: 562.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 9 | Average Score: 577.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 10 | Average Score: 558.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 11 | Average Score: 593.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 12 | Average Score: 582.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 13 | Average Score: 569.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 61 | NUMCLIMBS: 14 | Average Score: 582
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 1 | Average Score: 570.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 2 | Average Score: 590.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 3 | Average Score: 580.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 4 | Average Score: 570.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 5 | Average Score: 601.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 6 | Average Score: 586.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 7 | Average Score: 562.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 8 | Average Score: 606.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 9 | Average Score: 579.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 10 | Average Score: 578.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 11 | Average Score: 585.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 12 | Average Score: 571.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 13 | Average Score: 603.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 62 | NUMCLIMBS: 14 | Average Score: 592.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 1 | Average Score: 595.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 2 | Average Score: 585.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 3 | Average Score: 582.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 4 | Average Score: 590.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 5 | Average Score: 574.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 6 | Average Score: 588.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 7 | Average Score: 585.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 8 | Average Score: 592.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 9 | Average Score: 576
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 10 | Average Score: 595.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 11 | Average Score: 583.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 12 | Average Score: 576.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 13 | Average Score: 592.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 63 | NUMCLIMBS: 14 | Average Score: 589.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 1 | Average Score: 579
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 2 | Average Score: 572.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 3 | Average Score: 570.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 4 | Average Score: 592.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 5 | Average Score: 590.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 6 | Average Score: 563.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 7 | Average Score: 601.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 8 | Average Score: 593.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 9 | Average Score: 577.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 10 | Average Score: 598.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 11 | Average Score: 585.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 12 | Average Score: 564.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 13 | Average Score: 602.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 64 | NUMCLIMBS: 14 | Average Score: 580
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 1 | Average Score: 593.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 2 | Average Score: 591.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 3 | Average Score: 582.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 4 | Average Score: 581.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 5 | Average Score: 574.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 6 | Average Score: 574
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 7 | Average Score: 596
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 8 | Average Score: 576.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 9 | Average Score: 595.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 10 | Average Score: 567.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 11 | Average Score: 574.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 12 | Average Score: 581.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 13 | Average Score: 583.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 65 | NUMCLIMBS: 14 | Average Score: 567.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 1 | Average Score: 574.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 2 | Average Score: 605.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 3 | Average Score: 590.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 4 | Average Score: 589.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 5 | Average Score: 574.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 6 | Average Score: 590
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 7 | Average Score: 570.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 8 | Average Score: 593.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 9 | Average Score: 576.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 10 | Average Score: 569.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 11 | Average Score: 561
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 12 | Average Score: 612
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 13 | Average Score: 573
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 66 | NUMCLIMBS: 14 | Average Score: 609.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 1 | Average Score: 594.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 2 | Average Score: 586.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 3 | Average Score: 595.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 4 | Average Score: 572
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 5 | Average Score: 582.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 6 | Average Score: 582.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 7 | Average Score: 570.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 8 | Average Score: 577.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 9 | Average Score: 585.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 10 | Average Score: 572.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 11 | Average Score: 576.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 12 | Average Score: 571.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 13 | Average Score: 569
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 67 | NUMCLIMBS: 14 | Average Score: 561.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 1 | Average Score: 575.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 2 | Average Score: 585.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 3 | Average Score: 573.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 4 | Average Score: 574.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 5 | Average Score: 581.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 6 | Average Score: 591.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 7 | Average Score: 559.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 8 | Average Score: 578.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 9 | Average Score: 582.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 10 | Average Score: 604.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 11 | Average Score: 573.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 12 | Average Score: 576.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 13 | Average Score: 565.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 68 | NUMCLIMBS: 14 | Average Score: 562.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 1 | Average Score: 575
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 2 | Average Score: 587.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 3 | Average Score: 584.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 4 | Average Score: 586.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 5 | Average Score: 573
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 6 | Average Score: 574.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 7 | Average Score: 563.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 8 | Average Score: 581.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 9 | Average Score: 571.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 10 | Average Score: 586.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 11 | Average Score: 579.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 12 | Average Score: 586.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 13 | Average Score: 579.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 69 | NUMCLIMBS: 14 | Average Score: 567.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 1 | Average Score: 566.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 2 | Average Score: 568.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 3 | Average Score: 567.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 4 | Average Score: 543.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 5 | Average Score: 572.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 6 | Average Score: 602.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 7 | Average Score: 590
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 8 | Average Score: 585.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 9 | Average Score: 571.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 10 | Average Score: 574.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 11 | Average Score: 593.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 12 | Average Score: 586
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 13 | Average Score: 568.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 70 | NUMCLIMBS: 14 | Average Score: 553.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 1 | Average Score: 571
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 2 | Average Score: 591.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 3 | Average Score: 579.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 4 | Average Score: 562.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 5 | Average Score: 555.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 6 | Average Score: 564.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 7 | Average Score: 561
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 8 | Average Score: 588.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 9 | Average Score: 567.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 10 | Average Score: 578
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 11 | Average Score: 587.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 12 | Average Score: 571.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 13 | Average Score: 585.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 71 | NUMCLIMBS: 14 | Average Score: 579.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 1 | Average Score: 586.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 2 | Average Score: 569.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 3 | Average Score: 562.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 4 | Average Score: 579.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 5 | Average Score: 575.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 6 | Average Score: 555.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 7 | Average Score: 571.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 8 | Average Score: 565
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 9 | Average Score: 566.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 10 | Average Score: 557.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 11 | Average Score: 579.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 12 | Average Score: 569.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 13 | Average Score: 587.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 72 | NUMCLIMBS: 14 | Average Score: 579.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 1 | Average Score: 560.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 2 | Average Score: 590.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 3 | Average Score: 556.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 4 | Average Score: 608.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 5 | Average Score: 570.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 6 | Average Score: 578
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 7 | Average Score: 574.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 8 | Average Score: 604.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 9 | Average Score: 576.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 10 | Average Score: 580.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 11 | Average Score: 592.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 12 | Average Score: 571.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 13 | Average Score: 586.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 73 | NUMCLIMBS: 14 | Average Score: 567.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 1 | Average Score: 567
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 2 | Average Score: 570.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 3 | Average Score: 584.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 4 | Average Score: 568.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 5 | Average Score: 596.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 6 | Average Score: 577.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 7 | Average Score: 583.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 8 | Average Score: 569.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 9 | Average Score: 570.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 10 | Average Score: 577.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 11 | Average Score: 575.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 12 | Average Score: 588.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 13 | Average Score: 596.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 74 | NUMCLIMBS: 14 | Average Score: 554.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 1 | Average Score: 569.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 2 | Average Score: 550.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 3 | Average Score: 591.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 4 | Average Score: 578
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 5 | Average Score: 589.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 6 | Average Score: 566.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 7 | Average Score: 572.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 8 | Average Score: 565.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 9 | Average Score: 566.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 10 | Average Score: 583.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 11 | Average Score: 563.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 12 | Average Score: 577.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 13 | Average Score: 566.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 75 | NUMCLIMBS: 14 | Average Score: 589
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 1 | Average Score: 572.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 2 | Average Score: 566
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 3 | Average Score: 574
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 4 | Average Score: 548.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 5 | Average Score: 569.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 6 | Average Score: 579.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 7 | Average Score: 564.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 8 | Average Score: 576.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 9 | Average Score: 578.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 10 | Average Score: 570.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 11 | Average Score: 572.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 12 | Average Score: 581.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 13 | Average Score: 588.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 76 | NUMCLIMBS: 14 | Average Score: 567.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 1 | Average Score: 549.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 2 | Average Score: 567.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 3 | Average Score: 558.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 4 | Average Score: 586.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 5 | Average Score: 587.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 6 | Average Score: 572.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 7 | Average Score: 584.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 8 | Average Score: 595.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 9 | Average Score: 572.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 10 | Average Score: 574.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 11 | Average Score: 579.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 12 | Average Score: 578.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 13 | Average Score: 580.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 77 | NUMCLIMBS: 14 | Average Score: 547.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 1 | Average Score: 586.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 2 | Average Score: 582.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 3 | Average Score: 571.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 4 | Average Score: 568.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 5 | Average Score: 572.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 6 | Average Score: 575.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 7 | Average Score: 562.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 8 | Average Score: 591.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 9 | Average Score: 586.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 10 | Average Score: 592.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 11 | Average Score: 554.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 12 | Average Score: 578.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 13 | Average Score: 559.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 78 | NUMCLIMBS: 14 | Average Score: 562.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 1 | Average Score: 576.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 2 | Average Score: 579.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 3 | Average Score: 578.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 4 | Average Score: 557.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 5 | Average Score: 595.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 6 | Average Score: 592.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 7 | Average Score: 572.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 8 | Average Score: 562.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 9 | Average Score: 571.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 10 | Average Score: 580.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 11 | Average Score: 596.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 12 | Average Score: 551.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 13 | Average Score: 561.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 79 | NUMCLIMBS: 14 | Average Score: 562.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 1 | Average Score: 577.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 2 | Average Score: 570.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 3 | Average Score: 554.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 4 | Average Score: 575.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 5 | Average Score: 554.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 6 | Average Score: 569.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 7 | Average Score: 572.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 8 | Average Score: 574.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 9 | Average Score: 571.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 10 | Average Score: 583.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 11 | Average Score: 570.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 12 | Average Score: 551.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 13 | Average Score: 546.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 80 | NUMCLIMBS: 14 | Average Score: 558.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 1 | Average Score: 569.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 2 | Average Score: 573.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 3 | Average Score: 558.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 4 | Average Score: 577.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 5 | Average Score: 582.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 6 | Average Score: 579.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 7 | Average Score: 581.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 8 | Average Score: 559.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 9 | Average Score: 581.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 10 | Average Score: 566.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 11 | Average Score: 575.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 12 | Average Score: 569.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 13 | Average Score: 572
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 81 | NUMCLIMBS: 14 | Average Score: 571.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 1 | Average Score: 576.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 2 | Average Score: 560.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 3 | Average Score: 586.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 4 | Average Score: 564.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 5 | Average Score: 578
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 6 | Average Score: 599.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 7 | Average Score: 572.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 8 | Average Score: 598
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 9 | Average Score: 574.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 10 | Average Score: 583.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 11 | Average Score: 569.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 12 | Average Score: 565.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 13 | Average Score: 574.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 82 | NUMCLIMBS: 14 | Average Score: 586.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 1 | Average Score: 606
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 2 | Average Score: 556
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 3 | Average Score: 584.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 4 | Average Score: 586.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 5 | Average Score: 593.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 6 | Average Score: 574.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 7 | Average Score: 575.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 8 | Average Score: 574.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 9 | Average Score: 591.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 10 | Average Score: 558.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 11 | Average Score: 593.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 12 | Average Score: 571.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 13 | Average Score: 572
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 83 | NUMCLIMBS: 14 | Average Score: 569.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 1 | Average Score: 586.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 2 | Average Score: 584.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 3 | Average Score: 567.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 4 | Average Score: 588.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 5 | Average Score: 583.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 6 | Average Score: 557.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 7 | Average Score: 565.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 8 | Average Score: 576.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 9 | Average Score: 579.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 10 | Average Score: 585.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 11 | Average Score: 589.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 12 | Average Score: 581.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 13 | Average Score: 562.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 84 | NUMCLIMBS: 14 | Average Score: 579.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 1 | Average Score: 582.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 2 | Average Score: 583.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 3 | Average Score: 577.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 4 | Average Score: 576.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 5 | Average Score: 584.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 6 | Average Score: 577.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 7 | Average Score: 564.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 8 | Average Score: 578
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 9 | Average Score: 577.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 10 | Average Score: 574.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 11 | Average Score: 582.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 12 | Average Score: 591.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 13 | Average Score: 595
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 85 | NUMCLIMBS: 14 | Average Score: 565.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 1 | Average Score: 571.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 2 | Average Score: 569.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 3 | Average Score: 560.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 4 | Average Score: 583.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 5 | Average Score: 589.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 6 | Average Score: 581.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 7 | Average Score: 594.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 8 | Average Score: 578.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 9 | Average Score: 587.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 10 | Average Score: 592
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 11 | Average Score: 573.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 12 | Average Score: 556.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 13 | Average Score: 563.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 86 | NUMCLIMBS: 14 | Average Score: 591
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 1 | Average Score: 557
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 2 | Average Score: 572.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 3 | Average Score: 565
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 4 | Average Score: 570.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 5 | Average Score: 570.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 6 | Average Score: 574
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 7 | Average Score: 578.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 8 | Average Score: 557.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 9 | Average Score: 553.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 10 | Average Score: 550.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 11 | Average Score: 575.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 12 | Average Score: 559.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 13 | Average Score: 578.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 87 | NUMCLIMBS: 14 | Average Score: 570.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 1 | Average Score: 566.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 2 | Average Score: 567.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 3 | Average Score: 587.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 4 | Average Score: 565.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 5 | Average Score: 553.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 6 | Average Score: 561.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 7 | Average Score: 589.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 8 | Average Score: 566.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 9 | Average Score: 571.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 10 | Average Score: 582.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 11 | Average Score: 579.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 12 | Average Score: 576.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 13 | Average Score: 572.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 88 | NUMCLIMBS: 14 | Average Score: 598.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 1 | Average Score: 577.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 2 | Average Score: 575.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 3 | Average Score: 581.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 4 | Average Score: 564.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 5 | Average Score: 591.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 6 | Average Score: 577.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 7 | Average Score: 580.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 8 | Average Score: 557.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 9 | Average Score: 574.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 10 | Average Score: 567.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 11 | Average Score: 579.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 12 | Average Score: 576.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 13 | Average Score: 573.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 89 | NUMCLIMBS: 14 | Average Score: 580.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 1 | Average Score: 584.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 2 | Average Score: 594.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 3 | Average Score: 564.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 4 | Average Score: 583.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 5 | Average Score: 587.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 6 | Average Score: 568.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 7 | Average Score: 595.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 8 | Average Score: 573.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 9 | Average Score: 592.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 10 | Average Score: 567.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 11 | Average Score: 576.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 12 | Average Score: 569.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 13 | Average Score: 593.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 90 | NUMCLIMBS: 14 | Average Score: 565.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 1 | Average Score: 585.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 2 | Average Score: 552.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 3 | Average Score: 567
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 4 | Average Score: 559.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 5 | Average Score: 559.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 6 | Average Score: 549.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 7 | Average Score: 557.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 8 | Average Score: 573.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 9 | Average Score: 571.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 10 | Average Score: 558.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 11 | Average Score: 587.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 12 | Average Score: 603
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 13 | Average Score: 560.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 91 | NUMCLIMBS: 14 | Average Score: 574.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 1 | Average Score: 563.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 2 | Average Score: 579.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 3 | Average Score: 588.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 4 | Average Score: 551.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 5 | Average Score: 569.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 6 | Average Score: 576.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 7 | Average Score: 580.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 8 | Average Score: 580.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 9 | Average Score: 575.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 10 | Average Score: 583.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 11 | Average Score: 568.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 12 | Average Score: 562.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 13 | Average Score: 578
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 92 | NUMCLIMBS: 14 | Average Score: 574.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 1 | Average Score: 565.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 2 | Average Score: 584.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 3 | Average Score: 553.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 4 | Average Score: 569.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 5 | Average Score: 581.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 6 | Average Score: 564.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 7 | Average Score: 558.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 8 | Average Score: 564.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 9 | Average Score: 572.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 10 | Average Score: 549.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 11 | Average Score: 570.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 12 | Average Score: 567.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 13 | Average Score: 577.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 93 | NUMCLIMBS: 14 | Average Score: 563.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 1 | Average Score: 562.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 2 | Average Score: 563.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 3 | Average Score: 560.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 4 | Average Score: 577.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 5 | Average Score: 550.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 6 | Average Score: 580.1
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 7 | Average Score: 559.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 8 | Average Score: 562.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 9 | Average Score: 578
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 10 | Average Score: 596.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 11 | Average Score: 571.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 12 | Average Score: 580.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 13 | Average Score: 574.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 94 | NUMCLIMBS: 14 | Average Score: 553.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 1 | Average Score: 597.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 2 | Average Score: 565.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 3 | Average Score: 580
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 4 | Average Score: 561.7
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 5 | Average Score: 561.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 6 | Average Score: 579.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 7 | Average Score: 567
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 8 | Average Score: 554.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 9 | Average Score: 578.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 10 | Average Score: 578.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 11 | Average Score: 574.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 12 | Average Score: 545.9
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 13 | Average Score: 583.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 95 | NUMCLIMBS: 14 | Average Score: 564.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 96 | NUMCLIMBS: 1 | Average Score: 565.5
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 96 | NUMCLIMBS: 2 | Average Score: 585.4
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 96 | NUMCLIMBS: 3 | Average Score: 562.6
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 96 | NUMCLIMBS: 4 | Average Score: 577.3
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 96 | NUMCLIMBS: 5 | Average Score: 559.2
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
+GENSIZE: 96 | NUMCLIMBS: 6 | Average Score: 338.8
+---- Current Best:GENSIZE: 10 | NUMCLIMBS: 11 | Average Score: 645.7
+
