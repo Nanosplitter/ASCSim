@@ -473,6 +473,26 @@ class State
 		return deletedArr;
 	}
 
+	void swapArrs(int arr1, int arr2)
+	{
+		int arr1Y = (int)(arr1 / 19);
+		int arr1X = arr1 - 19 * arr1Y;
+
+		int arr2Y = (int)(arr2 / 19);
+		int arr2X = arr2 - 19 * arr2Y;
+
+		int arr1Index = -1;
+		int arr2Index = -1;
+
+		for (auto & a : arrows)
+		{
+			if (a.at(0) == arr1Y && a.at(1) == arr1X)
+			{
+				arr
+			}
+		}
+	}
+
 	vector<int> addArrow(int arr, int tDir)
 	{
 		vector<int> arrV;
@@ -768,6 +788,11 @@ class Manager
         checkState.score = sim.play(checkState.arrows);
     }
 
+	void setFlipCheckState()
+	{
+
+	}
+
 	void reset()
 	{
 		for (auto & s : states)
@@ -902,7 +927,7 @@ class Manager
     {
         auto currTime = high_resolution_clock::now();
         int statesChecked = 0;
-        float temp = 10000;
+        float temp = 1000000;
         checkState.arrows = genRandArrows();
         setSimpleCheckState();
         copyCheckToCurr();
@@ -1171,13 +1196,18 @@ int main()
 			//cerr << timeDiff(start_time, high_resolution_clock::now()) << endl;
 			ScoreAndString bestSolution;
 			ScoreAndString tempSolution;
+			bestSolution.score = 0;
+			
 			std::chrono::time_point<std::chrono::high_resolution_clock> start_time = high_resolution_clock::now();
 			std::chrono::time_point<std::chrono::high_resolution_clock> curr_time = high_resolution_clock::now();
 			//cout << "5" << endl;
 			for (int i = 0; i < NUMCLIMBS; i++)
 			{
 				//cout << "Getting here" << endl;
+				tempSolution.score = 0;
 				tempSolution = manager.getSAArrows(curr_time);
+				cout << "TempSolution " << i << " score: " << tempSolution.score << endl;
+				cout << "TempSolution " << i << " arrows: " << tempSolution.arrows << endl;
 				if (tempSolution.score > bestSolution.score)
 				{
 					bestSolution.score = tempSolution.score;
